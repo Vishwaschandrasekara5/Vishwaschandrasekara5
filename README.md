@@ -2,11 +2,13 @@
 
 <img src="https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133">
 
-<h5 align="center">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.</h5>
+<h5 align="center">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.</h5><br>
+<br><br>
 
-<a href="https://github.com/vishwaschandrasekara5" target="_blank" rel="noopener">
-  <img src="https://komarev.com/ghpvc/?username=vishwaschandrasekara5&style=for-the-badge" alt="Profile Views" style="max-width: 100%;">
-</a>
+<h3>Hey Vishwa You Have 👉 <a href="https://github.com/vishwaschandrasekara5" target="_blank" rel="noopener" >
+  <img src="https://komarev.com/ghpvc/?username=vishwaschandrasekara5&style=for-the-badge" alt="Profile Views" style="max-width: 100;"> </a>
+</h3>
+
 <p align="center"> <img src="" alt="" /> </p>
 
 <p align="center"> <a href=""><img src="" alt="" /></a> </p>
