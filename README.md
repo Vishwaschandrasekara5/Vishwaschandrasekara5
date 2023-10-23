@@ -4,6 +4,9 @@
 
 <h5 align="center">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.</h5>
 
+<a href="https://github.com/vishwaschandrasekara5" target="_blank" rel="noopener">
+  <img src="https://komarev.com/ghpvc/?username=vishwaschandrasekara5&style=for-the-badge" alt="Profile Views" style="max-width: 100%;">
+</a>
 <p align="center"> <img src="" alt="" /> </p>
 
 <p align="center"> <a href=""><img src="" alt="" /></a> </p>
