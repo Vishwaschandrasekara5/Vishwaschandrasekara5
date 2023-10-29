@@ -15,7 +15,7 @@
 
 <p align="center"> <a href="" target="blank"><img src="" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **WEB Developer**
+- 🔭 I’m currently working on **Front End Web Developer**
 
 - 🌱 I’m currently learning **PHP, HTML, CSS, MySQL,JavaScript**
 
