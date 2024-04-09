@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwa Sandun Chandrasekara</h1>
 
-<img src="[https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.assignmentexpert.com%2Fblog%2F10-tips-to-stay-focused-when-self-learning-programming-and-coding%2F&psig=AOvVaw0Mwj7dniMeLvhq3O1fc2xc&ust=1712737247718000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiultLZtIUDFQAAAAAdAAAAABAJ)">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.assignmentexpert.com%2Fblog%2F10-tips-to-stay-focused-when-self-learning-programming-and-coding%2F&psig=AOvVaw0Mwj7dniMeLvhq3O1fc2xc&ust=1712737247718000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiultLZtIUDFQAAAAAdAAAAABAJ">
 
 <h5 align="center">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.</h5><br>
 <br><br>
