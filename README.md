@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwa Sandun Chandrasekara</h1>
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.assignmentexpert.com%2Fblog%2F10-tips-to-stay-focused-when-self-learning-programming-and-coding%2F&psig=AOvVaw0Mwj7dniMeLvhq3O1fc2xc&ust=1712737247718000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiultLZtIUDFQAAAAAdAAAAABAJ](https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Funblast.com%2Fprogrammer-vector-illustration-ai-svg-eps-png%2F&psig=AOvVaw38iZKghiYkBFGIp-9Zg_eI&ust=1712935805795000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLimjaS9uoUDFQAAAAAdAAAAABBA)">
+<img src="https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg" alt="Image Description">
+
 
 <h5 align="center">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.</h5><br>
 <br><br>
