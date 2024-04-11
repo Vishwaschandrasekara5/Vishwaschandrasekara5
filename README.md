@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.twitter.com/Vishwa_Sandun5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.twitter.com/Vishwa_Sandun5" target="_blank"><img align="center" src="https://img.freepik.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg?size=338&ext=jpg&ga=GA1.1.1700460183.1712793600&semt=ais" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishwa-s-chandrasekara-6a1071247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/vishwas.chandrasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_sanuwa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
