@@ -6,7 +6,7 @@
 <h5 align="center">"I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.</h5><br>
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&width=435&lines=I like the responsibility of a team and contributing to the development of a company". My aim is to learn the new technology introduced to the world and use it daily and try to give something new to the world for the convenience of man.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&width=435&lines=I+enjoy+being+responsible+as+part+of+a+team+and+contributing+to+the+growth+of+a+company.+My+goal+is+to+stay+updated+on+the+latest+technologies%2C+apply+them+in+everyday+life%2C+and+innovate+to+create+solutions+that+benefit+humanity.)](https://git.io/typing-svg)
 
 <h3>Hey Vishwa You Have 👉 <a href="https://github.com/vishwaschandrasekara5" target="_blank" rel="noopener" >
   <img src="https://komarev.com/ghpvc/?username=vishwaschandrasekara5&style=for-the-badge" alt="Profile Views" style="max-width: 100;"> </a>
