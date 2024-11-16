@@ -38,7 +38,8 @@
 
 - 💬 Ask me about **PHP JavaScript**
 
-- 📫 How to reach me **sandunv05@gmail.com**
+- 📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](sandunv05@gmail.com)
+
 
 - ⚡ Fun fact **coding Life**
 
