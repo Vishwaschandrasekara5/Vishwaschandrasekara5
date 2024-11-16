@@ -37,8 +37,16 @@
 </p>
 
 <h3 align="start">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,laravel,drawio" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,laravel,drawio" alt="Languages and Tools" />
+</p>
+<p>
+  <!-- Custom Icon for Raspberry Pi -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />
+  <!-- Custom Icon for Draw.io (if skillicons.dev doesn't render correctly) -->
+  <img src="https://www.drawio.com/images/logo.png" alt="Draw.io" width="40" height="40" style="vertical-align: middle; margin-right: 10px;" />
+</p>
+
 
 
 
