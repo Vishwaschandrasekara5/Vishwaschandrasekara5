@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **PHP JavaScript**
 
-- 📫 How to reach me 
+- 📫 How to reach me **sandunv05@gmail.com**
 
 - ⚡ Fun fact **coding Life**
 
