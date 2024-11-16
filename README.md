@@ -37,7 +37,7 @@
 </p>
 
 <h3 align="start">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,laravel," />
+<img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,laravel,draw.io" />
 
 
 <!--   <img align="center" width="300" height="250" src="https://github-readme-stats.vercel.app/api?username=ishannikeshalanawarathna&show_icons=true&locale=en" alt="ishannikeshalanawarathna" />&nbsp; -->
