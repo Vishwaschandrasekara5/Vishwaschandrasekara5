@@ -10,10 +10,11 @@
 
 <div style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&center=true&vCenter=true&width=600&lines=I+enjoy+being+responsible+as+part+of+a+team.;Contributing+to+the+growth+of+a+company.;My+goal+is+to+stay+updated+on+the+latest+technologies.;Apply+them+in+everyday+life+and+innovate.;To+create+solutions+that+benefit+humanity." 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&center=true&vCenter=true&width=600&lines=I+enjoy+being+responsible+as+part+of+a+team.;Contributing+to+the+growth+of+a+company.;My+goal+is+to+stay+updated+on+the+latest+technologies.;Apply+them+in+everyday+life+and+innovate.;To+create+solutions+that+benefit+humanity." 
          alt="Typing SVG">
   </a>
 </div>
+
 
 
 
