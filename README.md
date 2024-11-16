@@ -7,10 +7,10 @@
 <img src="https://www.dignited.com/wp-content/uploads/2022/08/top10lan.jpg" alt="Image Description">
 
 
-<h2 align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&width=435&lines=I+enjoy+being+responsible+as+part+of+a+team+and+contributing+to+the+growth+of+a+company.+My+goal+is+to+stay+updated+on+the+latest+technologies%2C+apply+them+in+everyday+life%2C+and+innovate+to+create+solutions+that+benefit+humanity.)](https://git.io/typing-svg)
 
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=12&duration=3000&pause=1000&color=53F9FF&background=B4F0FF00&width=435&lines=I+enjoy+being+responsible+as+part+of+a+team+and+contributing+to+the+growth+of+a+company.+My+goal+is+to+stay+updated+on+the+latest+technologies%2C+apply+them+in+everyday+life%2C+and+innovate+to+create+solutions+that+benefit+humanity.)](https://git.io/typing-svg)
+
+
 
 
 <h3>Hey Vishwa You Have 👉 <a href="https://github.com/vishwaschandrasekara5" target="_blank" rel="noopener" >
