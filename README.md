@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+A+software+engineering+undergraduate+student.."></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarithdedunu&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
 
