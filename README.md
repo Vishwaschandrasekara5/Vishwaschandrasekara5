@@ -62,7 +62,7 @@
 
 <h3 align="start">Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,laravel,drawio" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,laravel,drawio,aws,ts" alt="Languages and Tools" />
 </p>
 
 
