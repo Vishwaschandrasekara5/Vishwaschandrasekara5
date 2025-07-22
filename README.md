@@ -69,8 +69,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishwaschandrasekara5&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Vishwaschandrasekara5&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=Vishwaschandrasekara5&theme=radical" width="48%" />
 </p>
+
 
 
 <!--   <img align="center" width="300" height="250" src="https://github-readme-stats.vercel.app/api?username=ishannikeshalanawarathna&show_icons=true&locale=en" alt="ishannikeshalanawarathna" />&nbsp; -->
