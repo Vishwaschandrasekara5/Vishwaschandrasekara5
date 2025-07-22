@@ -67,10 +67,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishwaschandrasekara5&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=12&title_color=89B4FA&icon_color=F5C2E7" height="192px" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=Vishwaschandrasekara5&theme=catppuccin-mocha&hide_border=true&border_radius=12" height="192px" />
-</p>
 
 
 
@@ -80,5 +76,5 @@
   <!-- <img align="center" width="1000" height="400" src="" alt="" />&nbsp; -->
 <!--   <img align="center" width="300" height="120" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishannikeshalanawarathna&show_icons=true&locale=en&layout=compact" alt="ishannikeshalanawarathna" /> -->
 
-<!-- <a href="https://github.com/Vishwaschandrasekara5"><img alt="vishwa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Vishwaschandrasekara5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
- <a href="https://github.com/Vishwaschandrasekara5"><img alt="Vishwa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Vishwaschandrasekara5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
+<a href="https://github.com/Vishwaschandrasekara5"><img alt="vishwa's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Vishwaschandrasekara5&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+ <a href="https://github.com/Vishwaschandrasekara5"><img alt="Vishwa's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Vishwaschandrasekara5&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> 
