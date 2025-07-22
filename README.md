@@ -68,9 +68,10 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishwaschandrasekara5&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=Vishwaschandrasekara5&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishwaschandrasekara5&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=12&title_color=89B4FA&icon_color=F5C2E7" height="192px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwaschandrasekara5&theme=catppuccin-mocha&hide_border=true&border_radius=12" height="192px" />
 </p>
+
 
 
 
