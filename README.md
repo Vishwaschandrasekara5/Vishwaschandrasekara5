@@ -61,8 +61,10 @@
 
 <h3 align="start">Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,laravel,aws,ts,supabase,heroku,neo4j" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,...,heroku" alt="Languages and Tools" />
+  <img src="https://cdn.simpleicons.org/neo4j" alt="Neo4j" style="width:40px;height:40px;" />
 </p>
+
 
 
 
