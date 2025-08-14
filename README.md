@@ -61,7 +61,7 @@
 
 <h3 align="start">Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,laravel,aws,ts,supabase,heroku,neo4j,django" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,bootstrap,css,figma,gcp,html,idea,java,js,jquery,mongodb,mysql,nodejs,php,py,react,tailwind,vscode,androidstudio,flutter,laravel,aws,ts,supabase,heroku,django" alt="Languages and Tools" />
 </p>
 
 
