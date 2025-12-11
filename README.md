@@ -35,8 +35,7 @@
 
 - 🌱 I’m currently learning **PHP, HTML, CSS, MySQL,JavaScript**
 
-- 👨‍💻 All of my projects are available at  
-  👉 **[My Portfolio](https://vishwa-portfolio-beta.vercel.app/)**
+- 👨‍💻 All of my projects are available at  **[My Portfolio](https://vishwa-portfolio-beta.vercel.app/)**
 
 - 💬 Ask me about **PHP JavaScript**
 
